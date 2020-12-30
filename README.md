@@ -4,7 +4,7 @@ We are the maintainers of [Colour](https://github.com/colour-science/colour) and
 
 **Colour** is our contribution to Open Source Software with a library that people can use to validate their colorimetric computations and grow their knowledge about light and colour: [Google](https://www.google.com/) engineers used it to improve [Youtube](https://www.youtube.com/) colour processing correctness!
 
-We are also involved with a lot of Open Source Software projects such as the [Academy Color Encoding System (ACES)](https://www.oscars.org/science-technology/sci-tech-projects/aces) or [OpenColorIO](https://opencolorio.org/) and try to spread as much as possible the knowledge about colorimetry.
+We are also involved with many Open Source Software projects such as the [Academy Color Encoding System (ACES)](https://www.oscars.org/science-technology/sci-tech-projects/aces) or [OpenColorIO](https://opencolorio.org/) and try to spread as much as possible the knowledge about colorimetry.
 
 ### Social
 
