@@ -8,10 +8,9 @@ We are also involved with many Open Source Software projects such as the [Academ
 
 ### Social
 
-- [Discource](https://colour-science.discourse.group/)
 - [Email](mailto:colour-developers@colour-science.org)
 - [Facebook](https://www.facebook.com/python.colour.science)
-- [Facebook](https://gitter.im/colour-science/colour)
+- [Gitter](https://gitter.im/colour-science/colour)
 - [LinkedIn](https://www.linkedin.com/in/thomasmansencal/)
 - [Twitter](https://twitter.com/colour_science)
 - [Website](https://www.colour-science.org/)
